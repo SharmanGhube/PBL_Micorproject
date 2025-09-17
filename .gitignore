@@ -18,12 +18,13 @@ smart_traffic_system.exe
 *.dll
 *.dylib
 
-# CMake generated files
+# CMake generated files (but keep CMakeLists.txt)
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
 *.cmake
+!CMakeLists.txt
 
 # IDE and editor files
 .vscode/
