@@ -1,0 +1,65 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Executable files
+*.exe
+*.out
+smart_traffic_system
+smart_traffic_system.exe
+
+# Compiler and linker files
+*.o
+*.obj
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE and editor files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# Reports and output files (optional - remove if you want to track reports)
+*.txt
+*.csv
+traffic_report_*
+
+# Backup files
+*.bak
+*.backup
