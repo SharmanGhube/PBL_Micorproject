@@ -2,6 +2,8 @@
 
 A comprehensive C++ implementation of an intelligent traffic management system that optimizes traffic flow, handles emergency vehicles, and provides real-time monitoring and analytics.
 
+> **Project Repository**: C++ Simulation for automated traffic simulation using CMake.
+
 ## 🚦 Features
 
 - **Multi-Intersection Management**: Control multiple traffic intersections simultaneously
